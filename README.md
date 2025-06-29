@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Henrique Vazosti
+# 👋 Olá! Eu sou Henrique Vaz Osti
 
 ## 🧪 QA Engineer | Especialista em Testes de Software
 
